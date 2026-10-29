@@ -1,0 +1,12 @@
+=== Processing summary ===
+Files discovered:        3
+Files processed:         3
+Files with column issues:1  (transactions_2026-10-03.csv: 'qty' mapped to 'quantity')
+Rows read:               43
+Rows accepted:           34
+Rows rejected:           9
+  - missing values:      4
+  - invalid numbers:     2
+  - duplicate IDs:       3
+Total revenue (KES):     22,775
+Run finished at:         2026-10-29T20:35:27

@@ -1,0 +1,10 @@
+source_file,row_number,transaction_id,reasons,date,branch,customer_id,product,quantity,unit_price,payment_method,payment_ref,cashier
+transactions_2026-10-02.csv,4,TXN-1018,blank field: customer_id,2026-10-02,Kisumu Mega,,Mumias Sugar 2kg,2,330,Cash,,
+transactions_2026-10-02.csv,5,TXN-1019,blank field: unit_price,2026-10-02,Nairobi Westlands,CUST-201,Ketepa Tea 250g,1,,M-Pesa,QJE4D1F6SO,
+transactions_2026-10-02.csv,6,TXN-1012,duplicate transaction_id: TXN-1012 (first accepted in transactions_2026-10-01.csv line 13),2026-10-01,Kisumu Mega,CUST-604,Royco Mchuzi Mix 200g,3,95,M-Pesa,QJC3E4V7JK,
+transactions_2026-10-02.csv,8,TXN-1021,blank field: quantity,2026-10-02,Nairobi CBD,CUST-230,Pishori Rice 5kg,,1150,Card,CRD-78012,
+transactions_2026-10-02.csv,11,TXN-1023,duplicate transaction_id: TXN-1023 (first accepted in transactions_2026-10-02.csv line 10),2026-10-02,Kisumu Mega,CUST-087,Unga Pembe 2kg,4,210,M-Pesa,QJE8H5K1WS,
+transactions_2026-10-02.csv,13,TXN-1025,blank field: branch,2026-10-02,,CUST-099,Royco Mchuzi Mix 200g,5,95,M-Pesa,QJF0K7M3YU,
+transactions_2026-10-02.csv,16,TXN-1028,invalid quantity: not a whole number ('two'),2026-10-02,Mombasa Nyali,CUST-412,Mumias Sugar 2kg,two,330,Cash,,
+transactions_2026-10-03.csv,7,TXN-1029,duplicate transaction_id: TXN-1029 (first accepted in transactions_2026-10-02.csv line 17),2026-10-02,Kisumu Mega,CUST-145,Elianto Oil 3L,1,1020,M-Pesa,QJF4P2R7CY,Achieng
+transactions_2026-10-03.csv,8,TXN-1035,invalid quantity: must be positive (got -4),2026-10-03,Nairobi CBD,CUST-230,Brookside Milk 500ml,-4,65,M-Pesa,QJG6F8H1KL,Wanjiru

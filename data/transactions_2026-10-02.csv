@@ -1,0 +1,17 @@
+transaction_id,date,branch,customer_id,product,quantity,unit_price,payment_method,payment_ref
+TXN-1016,2026-10-02,Nairobi CBD,CUST-145,Unga Pembe 2kg,2,210,M-Pesa,QJE1A7C3PL
+TXN-1017,2026-10-02,Mombasa Nyali,CUST-412,Kimbo 1kg,1,520,M-Pesa,QJE2B8D4QM
+TXN-1018,2026-10-02,Kisumu Mega,,Mumias Sugar 2kg,2,330,Cash,
+TXN-1019,2026-10-02,Nairobi Westlands,CUST-201,Ketepa Tea 250g,1,,M-Pesa,QJE4D1F6SO
+TXN-1012,2026-10-01,Kisumu Mega,CUST-604,Royco Mchuzi Mix 200g,3,95,M-Pesa,QJC3E4V7JK
+TXN-1020,2026-10-02,Nakuru Town,CUST-518,Brookside Milk 500ml,8,65,M-Pesa,QJE5E2G7TP
+TXN-1021,2026-10-02,Nairobi CBD,CUST-230,Pishori Rice 5kg,,1150,Card,CRD-78012
+TXN-1022,2026-10-02,Mombasa Nyali,CUST-310,Elianto Oil 3L,1,1020,M-Pesa,QJE7G4J9VR
+TXN-1023,2026-10-02,Kisumu Mega,CUST-087,Unga Pembe 2kg,4,210,M-Pesa,QJE8H5K1WS
+TXN-1023,2026-10-02,Kisumu Mega,CUST-087,Unga Pembe 2kg,4,210,M-Pesa,QJE8H5K1WS
+TXN-1024,2026-10-02,Nairobi Westlands,CUST-733,Kimbo 1kg,1,520,Cash,
+TXN-1025,2026-10-02,,CUST-099,Royco Mchuzi Mix 200g,5,95,M-Pesa,QJF0K7M3YU
+TXN-1026,2026-10-02,Nakuru Town,CUST-604,Ketepa Tea 250g,2,185,M-Pesa,QJF1L8N4ZV
+TXN-1027,2026-10-02,Nairobi CBD,CUST-201,Brookside Milk 500ml,12,65,M-Pesa,QJF2M9P5AW
+TXN-1028,2026-10-02,Mombasa Nyali,CUST-412,Mumias Sugar 2kg,two,330,Cash,
+TXN-1029,2026-10-02,Kisumu Mega,CUST-145,Elianto Oil 3L,1,1020,M-Pesa,QJF4P2R7CY
